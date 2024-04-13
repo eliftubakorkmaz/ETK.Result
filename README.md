@@ -1,4 +1,4 @@
-# TS.Result NuGet Package
+# ETK.Result NuGet Package
 
 ## Overview
 The `ETK.Result` package is designed to encapsulate the result of operations in .NET applications, offering a structured way to handle success and failure states with associated data or error messages. It is ideal for improving error handling and response consistency across various application layers.
