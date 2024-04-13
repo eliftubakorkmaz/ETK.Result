@@ -12,15 +12,16 @@ The `ETK.Result` package is designed to encapsulate the result of operations in 
 ## Getting Started
 
 ### Installation
-To integrate `TS.Result` into your project, install it via the NuGet package manager:
+To integrate `ETK.Result` into your project, install it via the NuGet package manager:
 
 ```plaintext
-Install-Package TS.Result
+Install-Package ETK.Result
 ```
+
 
 Or through the .NET CLI:
 ```plaintext
-dotnet add package TS.Result
+dotnet add package ETK.Result
 ```
 
 ## Usage
@@ -86,6 +87,6 @@ We welcome contributions! Feel free to open an issue or submit a pull request on
 `ETK.Result` is licensed under the MIT License. See the LICENSE file in the source repository for full details.
 
 ```rust
-This Markdown formatted README provides a comprehensive guide on how to use the `TS.Result` package, suitable for your project's repository or documentation.
+This Markdown formatted README provides a comprehensive guide on how to use the `ETK.Result` package, suitable for your project's repository or documentation.
 
 ```
