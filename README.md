@@ -1,7 +1,7 @@
 # TS.Result NuGet Package
 
 ## Overview
-The `TS.Result` package is designed to encapsulate the result of operations in .NET applications, offering a structured way to handle success and failure states with associated data or error messages. It is ideal for improving error handling and response consistency across various application layers.
+The `ETK.Result` package is designed to encapsulate the result of operations in .NET applications, offering a structured way to handle success and failure states with associated data or error messages. It is ideal for improving error handling and response consistency across various application layers.
 
 ## Features
 - **Generic Result Type**: Facilitates strong typing of the operation outcome, accommodating any data type.
